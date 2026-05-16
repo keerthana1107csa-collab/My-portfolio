@@ -1,0 +1,27 @@
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+header {
+    background: darkblue;
+    color: white;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
